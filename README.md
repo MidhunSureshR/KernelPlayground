@@ -1,2 +1,2 @@
 # KernelPlayground
-Playing around with kernel dev.
+Playing around with kernel development.
